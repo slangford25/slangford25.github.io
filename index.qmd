@@ -1,11 +1,13 @@
 ---
-title: "212 Website"
+title: "Sidney Langford"
+about:
+  template: jolla
+  image: profile.jpg
 ---
 
-This is a Quarto website.
+Hello! My name is Sidney Langford and I am a linguistics and data science student at Macalester College. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Macalester College | St. Paul, MN
+B.A in Linguistics | Sept 2021 - May 2025 (expected)

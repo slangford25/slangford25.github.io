@@ -3,18 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "212 Website"
+  title: "Sidney Langford"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+page-footer:
+  left: |
+    &copy; Sidney Langford, 2025<br>
+    All content licensed under <i class='bi-badge-cc'></i>
+    [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  right: |
+    Site built with <a href='https://quarto.org/'>Quarto</a>
+
 
 editor: visual
 
